@@ -1,8 +1,8 @@
-@import url('../UI-Components/css/component/button.css');
-@import url('../UI-Components/css/component/reset.css');
-@import url('../UI-Components/css/component/colors.css');
-@import url('../UI-Components/css/component/spacing-properties.css');
-@import url('../UI-Components/css/component/display-properties.css');
+@import url('../ui-component/button.css');
+@import url('../ui-component/colors.css');
+@import url('../ui-component/spacing-properties.css');
+@import url('../ui-component/display-properties.css');
+@import url('../ui-component/reset.css');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
